@@ -1,0 +1,10 @@
+Ingredients:
+ - Peanutbutter
+ - Jam or Jelly
+ - 2 slices of Bread
+
+Directions:
+  1. Spread peanutbutter onto one side of the first slice of bread using a knife
+  2. Spread jam/jelly onto one side of the second slice of  bread using a knife
+  3. Place the first slice of bread on the second so that the peanutbutter and the
+     jam/jelly are touching.
